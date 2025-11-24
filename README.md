@@ -19,9 +19,13 @@ High Reliability: A non-functional requirement targeting an Area Under the ROC C
 ⚙️ Installation and Setup
 
 1)Clone the Repository:
+
 2)Setup Environment: Create and activate a Python virtual environment.
+
 3)Install Dependencies:  pip install numpy pandas matplotlib tensorflow/torch opencv-python 
+
 4)Model Placement: Ensure your trained Deep Learning model file (cvt_deepfake_model.h5 or equivalent) is in the correct directory (as defined in deepfake_detector.py).
+
 5)Run the Detector:python deepfake_detector.py
 
 
